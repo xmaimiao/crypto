@@ -1,0 +1,22 @@
+{
+  "26a6ee08e3430dfa56a4bf17d13335df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fabba27bf714af7d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (1320, 927)\n  (Session info: chrome=81.0.4044.138)",
+      "time" : {
+        "start" : 1626003732919,
+        "stop" : 1626003742744,
+        "duration" : 9825
+      }
+    } ]
+  }
+}

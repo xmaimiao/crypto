@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_cro_usdcPage",
+      "children" : [ {
+        "name" : "TestCro_usdcPage",
+        "children" : [ {
+          "name" : "验证打开了cro_usdc页面",
+          "uid" : "fabba27bf714af7d",
+          "parentUid" : "9b5f4318f6d90b383dcc0f2dda11a063",
+          "status" : "broken",
+          "time" : {
+            "start" : 1626003732919,
+            "stop" : 1626003742744,
+            "duration" : 9825
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'expect': 'Order Book'}" ]
+        } ],
+        "uid" : "9b5f4318f6d90b383dcc0f2dda11a063"
+      } ],
+      "uid" : "14f620147b83b164b215cbe0aec2cc4a"
+    } ],
+    "uid" : "b51346658ccdb9db01a6b5f6c12deab1"
+  } ]
+}

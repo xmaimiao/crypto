@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases.test_cro_usdcPage",
+    "children" : [ {
+      "name" : "验证打开了cro_usdc页面",
+      "uid" : "fabba27bf714af7d",
+      "parentUid" : "74f375fe7c416730594c62a814fc70c9",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626003732919,
+        "stop" : 1626003742744,
+        "duration" : 9825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'expect': 'Order Book'}" ]
+    } ],
+    "uid" : "testcases.test_cro_usdcPage"
+  } ]
+}

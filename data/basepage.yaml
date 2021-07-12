@@ -1,0 +1,11 @@
+#控制開啓調試/浏览器運行的開關
+switch:
+  1: port
+  2: brower
+switch_default: 2
+
+
+#環境切換：dev、uat
+docker_env:
+  dev: "https://crypto.com/exchange"
+default: dev

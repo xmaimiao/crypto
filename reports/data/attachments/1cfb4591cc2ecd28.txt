@@ -1,0 +1,8 @@
+INFO     root:basepage.py:72 wait_click：//*[@class="e-tabs"]/div/div[contains(text(),"USDC")],timeout：10
+INFO     root:basepage.py:65 click：//*[@class="e-tabs"]/div/div[contains(text(),"USDC")]
+INFO     root:basepage.py:57 find：//*[@class="e-tabs"]/div/div[contains(text(),"USDC")]
+INFO     root:basepage.py:95 execute_script_scrol：//span[@class="source" and contains(text(),"CRO")]/../../../../.. //button[@class="trade-btn e-button e-button--primary e-button--medium"]
+INFO     root:basepage.py:57 find：//span[@class="source" and contains(text(),"CRO")]/../../../../.. //button[@class="trade-btn e-button e-button--primary e-button--medium"]
+INFO     root:basepage.py:72 wait_click：//span[@class="source" and contains(text(),"CRO")]/../../../../.. //button[@class="trade-btn e-button e-button--primary e-button--medium"],timeout：10
+INFO     root:basepage.py:65 click：//span[@class="source" and contains(text(),"CRO")]/../../../../.. //button[@class="trade-btn e-button e-button--primary e-button--medium"]
+INFO     root:basepage.py:57 find：//span[@class="source" and contains(text(),"CRO")]/../../../../.. //button[@class="trade-btn e-button e-button--primary e-button--medium"]

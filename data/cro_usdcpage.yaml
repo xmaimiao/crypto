@@ -1,0 +1,4 @@
+get_Order_Book_text:
+  - by: xpath
+    locator: '//div[@class="order-book-title"]'
+    action: wait_display

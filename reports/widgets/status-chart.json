@@ -1,0 +1,11 @@
+[ {
+  "uid" : "fabba27bf714af7d",
+  "name" : "验证打开了cro_usdc页面",
+  "time" : {
+    "start" : 1626003732919,
+    "stop" : 1626003742744,
+    "duration" : 9825
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

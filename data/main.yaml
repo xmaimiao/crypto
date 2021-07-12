@@ -1,0 +1,21 @@
+goto_USDC:
+  - by: xpath
+    locator: '//*[@class="e-tabs"]/div/div[contains(text(),"USDC")]'
+    action: wait_click
+  - by: xpath
+    locator: '//*[@class="e-tabs"]/div/div[contains(text(),"USDC")]'
+    action: click
+
+click_CRO:
+  - by: xpath
+    locator: '//span[@class="source" and contains(text(),"CRO")]/../../../../..
+    //button[@class="trade-btn e-button e-button--primary e-button--medium"]'
+    action: execute_js_scrol
+  - by: xpath
+    locator: '//span[@class="source" and contains(text(),"CRO")]/../../../../..
+    //button[@class="trade-btn e-button e-button--primary e-button--medium"]'
+    action: wait_click
+  - by: xpath
+    locator: '//span[@class="source" and contains(text(),"CRO")]/../../../../..
+    //button[@class="trade-btn e-button e-button--primary e-button--medium"]'
+    action: click

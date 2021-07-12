@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element is not clickable at point (1320, 927)\n  (Session info: chrome=81.0.4044.138)",
+      "children" : [ {
+        "name" : "验证打开了cro_usdc页面",
+        "uid" : "fabba27bf714af7d",
+        "parentUid" : "da15143500fb7d571881b898165e9254",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626003732919,
+          "stop" : 1626003742744,
+          "duration" : 9825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'expect': 'Order Book'}" ]
+      } ],
+      "uid" : "da15143500fb7d571881b898165e9254"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

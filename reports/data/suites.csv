@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Jul 11 19:42:12 CST 2021","Sun Jul 11 19:42:22 CST 2021","9825","testcases","test_cro_usdcPage","TestCro_usdcPage","","","验证打开了cro_usdc页面",""

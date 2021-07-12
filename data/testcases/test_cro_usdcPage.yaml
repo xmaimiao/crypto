@@ -1,0 +1,2 @@
+test_into_cro_usdc:
+  - {expect: "Order Book"}

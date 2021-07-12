@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-SD5IDTNS",
+    "children" : [ {
+      "name" : "16564-MainThread",
+      "children" : [ {
+        "name" : "验证打开了cro_usdc页面",
+        "uid" : "fabba27bf714af7d",
+        "parentUid" : "a84c01e337b679f23368d4504bc2ebda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626003732919,
+          "stop" : 1626003742744,
+          "duration" : 9825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'expect': 'Order Book'}" ]
+      } ],
+      "uid" : "a84c01e337b679f23368d4504bc2ebda"
+    } ],
+    "uid" : "79f0ca6e6ec186ee8c9687b64038c6e4"
+  } ]
+}
